@@ -1,0 +1,39 @@
+body {
+    text-align: center; 
+    background-color: rgb(140, 161, 210);
+    border: 12px solid rgb(22, 36, 189);
+}
+
+h1 {
+    color: rgb(22, 36, 189);
+}
+a:hover {
+    font-size: 125%;;
+}
+
+footer {
+    font-size: small;
+}
+
+img {
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+#content {
+    padding: 5px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+#buttonContainer{
+    width: fit-content;
+    margin: auto;
+}
+#quoteButton{
+    padding: 10px;
+    font-size: 16px;
+    font-style: bold;
+    border: 10px solid rgb(22, 36, 189);
+    border-radius: 12px;
+}
