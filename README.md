@@ -16,7 +16,7 @@ Web application generates a different classic quote every day.
 
 ## Acknowledgements
 
- - Originally a [Codeacademy](www.codeacademy.com) exercise, part of "Building Interactive JavaScript Websites" course
+ - Originally a [codecademy](www.codecademy.com) exercise, part of "Building Interactive JavaScript Websites" course
   - All images/quotes are from Public Domain and referenced on page. 
 
   ## 
